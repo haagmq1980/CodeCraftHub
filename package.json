@@ -1,0 +1,26 @@
+{
+"name": "code-raft-ub-1",
+"version": "1.0.0",
+"description": "an innovative platform designed to streamline collaboration and accelerate development workflows for developers worldwide. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/haagmq1980/CodeCraftHub.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "haagmq1980",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
